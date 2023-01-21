@@ -1,8 +1,8 @@
 <div align="center">
 	<h2>Hello! I'm Jahidul Hasan<h2>
-	<br><br>
+	<br>
 	
-	<img style="pointer-events: src="https://github-readme-stats.vercel.app/api?username=JahidulHasanRabbi&show_icons=true&theme=vue-dark">
+	<img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=JahidulHasanRabbi&show_icons=true&theme=vue-dark">
 	<br><br>
 
 	[![GitHub Streak](https://streak-stats.demolab.com?user=JahidulHasanRabbi&theme=vue-dark)](https://git.io/streak-stats)
