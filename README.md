@@ -6,7 +6,7 @@
 <img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=JahidulHasanRabbi&show_icons=true&theme=vue-dark">
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JahidulHasanRabbi&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=JahidulHasanRabbi&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 
