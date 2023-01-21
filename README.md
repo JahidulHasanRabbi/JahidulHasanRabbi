@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+	<h2>Hello! I'm Jahidul Hasan<h2>
+	<br><br>
+	
+	<img style="pointer-events: src="https://github-readme-stats.vercel.app/api?username=JahidulHasanRabbi&show_icons=true&theme=vue-dark">
+	<br><br>
+
+	[![GitHub Streak](https://streak-stats.demolab.com?user=JahidulHasanRabbi&theme=vue-dark)](https://git.io/streak-stats)
+	
+</div>
 
 <!--
 **JahidulHasanRabbi/JahidulHasanRabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![JahihulHasanRabbi GitHub stats](https://github-readme-stats.vercel.app/api?username=JahidulHasanRabbi&show_icons=true&theme=vue-dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JahidulHasanRabbi&theme=vue-dark)](https://git.io/streak-stats)
