@@ -1,13 +1,14 @@
 <div align="center">
-	<h2>Hello! I'm Jahidul Hasan<h2>
-	<br>
-	
-	<img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=JahidulHasanRabbi&show_icons=true&theme=vue-dark">
-	<br><br>
+  <h2>Hello! I'm Jahidul Hasan</h2> 
 
-	[![GitHub Streak](https://streak-stats.demolab.com?user=JahidulHasanRabbi&theme=vue-dark)](https://git.io/streak-stats)
-	
+<br><br>
+  
+<img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=JahidulHasanRabbi&show_icons=true&theme=vue-dark">
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JahidulHasanRabbi&theme=vue-dark)](https://git.io/streak-stats)
 </div>
+
 
 <!--
 **JahidulHasanRabbi/JahidulHasanRabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
